@@ -8,7 +8,7 @@
 
 Submitted by: **Minjing Shi**
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
